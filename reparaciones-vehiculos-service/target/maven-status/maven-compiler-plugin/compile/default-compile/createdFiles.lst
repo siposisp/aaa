@@ -1,0 +1,16 @@
+com\example\reparacionesvehiculosservice\Entity\HistorialEntity.class
+com\example\reparacionesvehiculosservice\Controller\HistorialController.class
+com\example\reparacionesvehiculosservice\Service\DatosBonosService.class
+com\example\reparacionesvehiculosservice\Entity\ReparacionEntity.class
+com\example\reparacionesvehiculosservice\Repository\HistorialRepository.class
+com\example\reparacionesvehiculosservice\Service\ReparacionService.class
+com\example\reparacionesvehiculosservice\Service\CostManagerService.class
+com\example\reparacionesvehiculosservice\Model\AutomovilEntity.class
+com\example\reparacionesvehiculosservice\ReparacionesVehiculosServiceApplication.class
+com\example\reparacionesvehiculosservice\Model\ValorReparacionEntity.class
+com\example\reparacionesvehiculosservice\Config\FeignClientConfig.class
+com\example\reparacionesvehiculosservice\Service\HistorialService.class
+com\example\reparacionesvehiculosservice\Repository\DatosBonosRepository.class
+com\example\reparacionesvehiculosservice\Repository\ReparacionRepository.class
+com\example\reparacionesvehiculosservice\Entity\DatosBonosEntity.class
+com\example\reparacionesvehiculosservice\Config\RestTemplateConfig.class
